@@ -134,8 +134,13 @@ Build and fit a classifier
 
  .. code-block:: none
 
+    [WARNING] [2022-07-19 02:06:23,471:smac.runhistory.runhistory2epm.RunHistory2EPM4LogCost] Got cost of smaller/equal to 0. Replace by 0.000010 since we use log cost.
+    [WARNING] [2022-07-19 02:06:38,288:smac.runhistory.runhistory2epm.RunHistory2EPM4LogCost] Got cost of smaller/equal to 0. Replace by 0.000010 since we use log cost.
+    [WARNING] [2022-07-19 02:06:52,617:smac.runhistory.runhistory2epm.RunHistory2EPM4LogCost] Got cost of smaller/equal to 0. Replace by 0.000010 since we use log cost.
+    [WARNING] [2022-07-19 02:07:08,406:smac.runhistory.runhistory2epm.RunHistory2EPM4LogCost] Got cost of smaller/equal to 0. Replace by 0.000010 since we use log cost.
+    [WARNING] [2022-07-19 02:07:11,614:smac.runhistory.runhistory2epm.RunHistory2EPM4LogCost] Got cost of smaller/equal to 0. Replace by 0.000010 since we use log cost.
 
-    <autoPyTorch.api.tabular_classification.TabularClassificationTask object at 0x7f1190793970>
+    <autoPyTorch.api.tabular_classification.TabularClassificationTask object at 0x7efe1cfb78b0>
 
 
 
@@ -245,7 +250,7 @@ Plotting the model performance
 
 .. rst-class:: sphx-glr-timing
 
-   **Total running time of the script:** ( 3 minutes  49.417 seconds)
+   **Total running time of the script:** ( 3 minutes  57.920 seconds)
 
 
 .. _sphx_glr_download_examples_40_advanced_example_visualization.py:
